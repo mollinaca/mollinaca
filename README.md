@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [@mollinaca](https://twitter.com/mollinaca), I often refer to myself as `mollinaca` or `hstn` 🌴   
+I'm [@mollinaca](https://twitter.com/syoutin), I often refer to myself as `mollinaca` or `hstn` 🌴   
 
 ## GitHub Readme Stats
 
