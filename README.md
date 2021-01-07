@@ -1,8 +1,7 @@
 # Hi there 👋
 
 I'm [mollinaca](https://twitter.com/syoutin) 🌴     
-I’m currently working on Japanese Game Company as Server Infrastructure Engineer for Online Gaming.  
-This Github Account and Repositories are my Hobbies (unrelated to work). 🌱  
+I’m currently working on Japanese Game Company as Server Infrastructure Engineer for Online Gaming.🎮  
 
 ## GitHub Readme Stats
 
